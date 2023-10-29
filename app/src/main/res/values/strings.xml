@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StudentDashboard</string>
+    <string name="select">Select Mess</string>
+    <string name="selectTime">Select Time Slot</string>
+    <string name="auto_complete_description">Select an option from the list</string>
+
+</resources>
